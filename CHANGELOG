@@ -1,0 +1,2 @@
+v0.1: 内部项目使用
+> 需要设置 `export GOPRIVATE=open-git.jonham.cn` 来实现项目使用
