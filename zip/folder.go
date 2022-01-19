@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"open-git.jonham.cn/Jonham/goeasy/checkerror"
+	"github.com/Jonham/goeasy/checkerror"
 )
 
 //ZipFilesInFolder 压缩所有文件夹里的文件

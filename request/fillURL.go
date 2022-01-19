@@ -2,10 +2,11 @@ package zhuhe
 
 import (
 	"fmt"
-	"open-git.jonham.cn/Jonham/goeasy/funcpro"
 	"reflect"
 	"strconv"
 	"strings"
+
+	"github.com/Jonham/goeasy/funcpro"
 )
 
 //FillURL 填充URL中的模板值

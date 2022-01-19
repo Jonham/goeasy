@@ -1,12 +1,13 @@
 package zhuhe
 
 import (
+	"log"
+	"testing"
+
+	"github.com/Jonham/goeasy/checkerror"
+	"github.com/Jonham/goeasy/request/datagetter"
 	jsoniter "github.com/json-iterator/go"
 	"github.com/stretchr/testify/assert"
-	"log"
-	"open-git.jonham.cn/Jonham/goeasy/checkerror"
-	"open-git.jonham.cn/Jonham/goeasy/request/datagetter"
-	"testing"
 )
 
 type param struct {

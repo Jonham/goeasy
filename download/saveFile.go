@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"open-git.jonham.cn/Jonham/goeasy/checkerror"
+	"github.com/Jonham/goeasy/checkerror"
 )
 
 // SaveHTTPResouceAsFile 下载文件，并保存到指定位置

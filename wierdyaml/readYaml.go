@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"open-git.jonham.cn/Jonham/goeasy/checkerror"
+	"github.com/Jonham/goeasy/checkerror"
 )
 
 //ReadYAML 读取YAML

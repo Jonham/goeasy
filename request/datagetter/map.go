@@ -3,9 +3,10 @@ package datagetter
 import (
 	"fmt"
 	"log"
-	"open-git.jonham.cn/Jonham/goeasy/checkerror"
-	"open-git.jonham.cn/Jonham/goeasy/gotype"
 	"reflect"
+
+	"github.com/Jonham/goeasy/checkerror"
+	"github.com/Jonham/goeasy/gotype"
 )
 
 //interface快捷mapper

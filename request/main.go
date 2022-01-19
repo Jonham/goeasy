@@ -1,6 +1,6 @@
 package zhuhe
 
-import "open-git.jonham.cn/Jonham/goeasy/request/raw"
+import "github.com/Jonham/goeasy/request/raw"
 
 //API 对API的实现
 type API struct {

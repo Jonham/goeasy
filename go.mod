@@ -1,4 +1,4 @@
-module open-git.jonham.cn/Jonham/goeasy
+module github.com/Jonham/goeasy
 
 go 1.17
 
